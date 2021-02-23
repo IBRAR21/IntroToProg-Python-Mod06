@@ -1,5 +1,0 @@
-Buy Milk|High
-Call Mom|Medium
-Pay Bills|High
-Buy Grocery|Medium
-Clear Inbox|Low
